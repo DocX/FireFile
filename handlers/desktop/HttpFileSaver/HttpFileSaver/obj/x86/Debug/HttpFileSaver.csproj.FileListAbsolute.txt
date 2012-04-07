@@ -1,0 +1,7 @@
+C:\Users\Lukáš Doležal\Documents\_PROJECTS\DocX-FireFile-b767989\handlers\desktop\HttpFileSaver\HttpFileSaver\bin\Debug\HttpFileSaver.exe
+C:\Users\Lukáš Doležal\Documents\_PROJECTS\DocX-FireFile-b767989\handlers\desktop\HttpFileSaver\HttpFileSaver\bin\Debug\HttpFileSaver.pdb
+C:\Users\Lukáš Doležal\Documents\_PROJECTS\DocX-FireFile-b767989\handlers\desktop\HttpFileSaver\HttpFileSaver\bin\Debug\HttpFileSaverLib.dll
+C:\Users\Lukáš Doležal\Documents\_PROJECTS\DocX-FireFile-b767989\handlers\desktop\HttpFileSaver\HttpFileSaver\bin\Debug\HttpFileSaverLib.pdb
+C:\Users\Lukáš Doležal\Documents\_PROJECTS\DocX-FireFile-b767989\handlers\desktop\HttpFileSaver\HttpFileSaver\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lukáš Doležal\Documents\_PROJECTS\DocX-FireFile-b767989\handlers\desktop\HttpFileSaver\HttpFileSaver\obj\x86\Debug\HttpFileSaver.exe
+C:\Users\Lukáš Doležal\Documents\_PROJECTS\DocX-FireFile-b767989\handlers\desktop\HttpFileSaver\HttpFileSaver\obj\x86\Debug\HttpFileSaver.pdb

@@ -1,0 +1,11 @@
+C:\Users\Lukáš Doležal\Documents\_PROJECTS\DocX-FireFile-b767989\handlers\desktop\HttpFileSaver\HttpFileSaverWin\bin\Debug\HttpFileSaverWin.exe
+C:\Users\Lukáš Doležal\Documents\_PROJECTS\DocX-FireFile-b767989\handlers\desktop\HttpFileSaver\HttpFileSaverWin\bin\Debug\HttpFileSaverWin.pdb
+C:\Users\Lukáš Doležal\Documents\_PROJECTS\DocX-FireFile-b767989\handlers\desktop\HttpFileSaver\HttpFileSaverWin\bin\Debug\HttpFileSaverLib.dll
+C:\Users\Lukáš Doležal\Documents\_PROJECTS\DocX-FireFile-b767989\handlers\desktop\HttpFileSaver\HttpFileSaverWin\bin\Debug\HttpFileSaverLib.pdb
+C:\Users\Lukáš Doležal\Documents\_PROJECTS\DocX-FireFile-b767989\handlers\desktop\HttpFileSaver\HttpFileSaverWin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lukáš Doležal\Documents\_PROJECTS\DocX-FireFile-b767989\handlers\desktop\HttpFileSaver\HttpFileSaverWin\obj\x86\Debug\HttpFileSaverWin.Form1.resources
+C:\Users\Lukáš Doležal\Documents\_PROJECTS\DocX-FireFile-b767989\handlers\desktop\HttpFileSaver\HttpFileSaverWin\obj\x86\Debug\HttpFileSaverWin.Properties.Resources.resources
+C:\Users\Lukáš Doležal\Documents\_PROJECTS\DocX-FireFile-b767989\handlers\desktop\HttpFileSaver\HttpFileSaverWin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lukáš Doležal\Documents\_PROJECTS\DocX-FireFile-b767989\handlers\desktop\HttpFileSaver\HttpFileSaverWin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lukáš Doležal\Documents\_PROJECTS\DocX-FireFile-b767989\handlers\desktop\HttpFileSaver\HttpFileSaverWin\obj\x86\Debug\HttpFileSaverWin.exe
+C:\Users\Lukáš Doležal\Documents\_PROJECTS\DocX-FireFile-b767989\handlers\desktop\HttpFileSaver\HttpFileSaverWin\obj\x86\Debug\HttpFileSaverWin.pdb
