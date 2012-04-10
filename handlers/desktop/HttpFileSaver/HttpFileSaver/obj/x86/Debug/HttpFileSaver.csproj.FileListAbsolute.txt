@@ -5,3 +5,10 @@ C:\Users\Lukáš Doležal\Documents\_PROJECTS\DocX-FireFile-b767989\handlers\des
 C:\Users\Lukáš Doležal\Documents\_PROJECTS\DocX-FireFile-b767989\handlers\desktop\HttpFileSaver\HttpFileSaver\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Lukáš Doležal\Documents\_PROJECTS\DocX-FireFile-b767989\handlers\desktop\HttpFileSaver\HttpFileSaver\obj\x86\Debug\HttpFileSaver.exe
 C:\Users\Lukáš Doležal\Documents\_PROJECTS\DocX-FireFile-b767989\handlers\desktop\HttpFileSaver\HttpFileSaver\obj\x86\Debug\HttpFileSaver.pdb
+\\server01\users\ldolezal\Desktop\handlers\desktop\HttpFileSaver\HttpFileSaver\obj\x86\Debug\HttpFileSaver.exe
+\\server01\users\ldolezal\Desktop\handlers\desktop\HttpFileSaver\HttpFileSaver\obj\x86\Debug\HttpFileSaver.pdb
+\\server01\users\ldolezal\Desktop\handlers\desktop\HttpFileSaver\HttpFileSaver\bin\Debug\HttpFileSaver.exe
+\\server01\users\ldolezal\Desktop\handlers\desktop\HttpFileSaver\HttpFileSaver\bin\Debug\HttpFileSaver.pdb
+\\server01\users\ldolezal\Desktop\handlers\desktop\HttpFileSaver\HttpFileSaver\bin\Debug\HttpFileSaverLib.dll
+\\server01\users\ldolezal\Desktop\handlers\desktop\HttpFileSaver\HttpFileSaver\bin\Debug\HttpFileSaverLib.pdb
+\\server01\users\ldolezal\Desktop\handlers\desktop\HttpFileSaver\HttpFileSaver\obj\x86\Debug\ResolveAssemblyReference.cache

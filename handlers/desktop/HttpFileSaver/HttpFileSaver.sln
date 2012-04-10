@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual C# Express 2010
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpFileSaver", "HttpFileSaver\HttpFileSaver.csproj", "{B9BFED4B-9394-4FA0-953E-B820224E441A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpFileSaverWin", "HttpFileSaverWin\HttpFileSaverWin.csproj", "{B97E3C19-9D45-4494-ABEC-0C7212CAD299}"

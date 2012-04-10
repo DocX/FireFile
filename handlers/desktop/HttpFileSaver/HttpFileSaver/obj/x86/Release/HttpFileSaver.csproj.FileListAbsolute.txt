@@ -1,0 +1,5 @@
+\\server01\users\ldolezal\Desktop\handlers\desktop\HttpFileSaver\HttpFileSaver\bin\Release\HttpFileSaver.exe
+\\server01\users\ldolezal\Desktop\handlers\desktop\HttpFileSaver\HttpFileSaver\bin\Release\HttpFileSaverLib.dll
+\\server01\users\ldolezal\Desktop\handlers\desktop\HttpFileSaver\HttpFileSaver\bin\Release\HttpFileSaverLib.pdb
+\\server01\users\ldolezal\Desktop\handlers\desktop\HttpFileSaver\HttpFileSaver\obj\x86\Release\ResolveAssemblyReference.cache
+\\server01\users\ldolezal\Desktop\handlers\desktop\HttpFileSaver\HttpFileSaver\obj\x86\Release\HttpFileSaver.exe
